@@ -1,0 +1,17 @@
+{
+  "CosmeticInfo" : [
+    {
+      "IndicatedProduction" : "100",
+      "GoodQuantity":"80",
+      "DismalAmount" : "20",
+      "OperationalStatus" : "정상",
+      "RateOfOperation" : "가동률",
+      "Temperature" : "60도",
+      "Humidity" : "24도",
+      "PouchProduction" : "80",
+      "BoxProduction" : "16",
+      "PouchProductionSpeed" : "1",
+      "BoxProductionSpeed" : "3",
+    }
+  ]  
+}
