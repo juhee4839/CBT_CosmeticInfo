@@ -11,7 +11,7 @@
       "PouchProduction" : "80",
       "BoxProduction" : "16",
       "PouchProductionSpeed" : "1",
-      "BoxProductionSpeed" : "3",
+      "BoxProductionSpeed" : "3"
     }
   ]  
 }
