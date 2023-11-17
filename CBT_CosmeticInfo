@@ -2,7 +2,7 @@
   "CosmeticInfo" : [
     {
       "IndicatedProduction" : "90",
-      "GoodQuantity":"70",
+      "GoodQuantity":"80",
       "DismalAmount" : "20",
       "OperationalStatus" : "정상",
       "RateOfOperation" : "가동률",
