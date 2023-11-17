@@ -1,7 +1,7 @@
 {
   "CosmeticInfo" : [
     {
-      "IndicatedProduction" : "100",
+      "IndicatedProduction" : "90",
       "GoodQuantity":"80",
       "DismalAmount" : "20",
       "OperationalStatus" : "정상",
