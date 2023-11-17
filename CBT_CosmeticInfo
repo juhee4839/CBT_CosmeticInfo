@@ -1,11 +1,11 @@
 {
   "CosmeticInfo" : [
     {
-      "IndicatedProduction" : "90",
+      "IndicatedProduction" : "100",
       "GoodQuantity":"80",
       "DismalAmount" : "20",
       "OperationalStatus" : "정상",
-      "RateOfOperation" : "가동률",
+      "RateOfOperation" : "80",
       "Temperature" : "60도",
       "Humidity" : "24도",
       "PouchProduction" : "80",
