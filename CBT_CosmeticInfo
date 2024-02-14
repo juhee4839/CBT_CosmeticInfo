@@ -1,17 +1,48 @@
 {
-  "CosmeticInfo" : [
+    "CbtInfo":[
     {
-      "IndicatedProduction" : "100",
-      "GoodQuantity":"80",
-      "DismalAmount" : "20",
-      "OperationalStatus" : "정상",
-      "RateOfOperation" : "80",
-      "Temperature" : "60도",
-      "Humidity" : "24도",
-      "PouchProduction" : "80",
-      "BoxProduction" : "16",
-      "PouchProductionSpeed" : "1",
-      "BoxProductionSpeed" : "3"
+        "ID": "1",
+        "Day": "2024년 12월 14일 화요일",
+        "Time": "14:30",
+        "Temperature": "14.5°",
+        "Humidity":"53%",
+        "FSCosmeticTypeOfPouch": "0",
+        "FSCosmeticTypeOfBottle": "1",
+        "FSMarking": "0",
+        "FSCutter":"1",
+        "FSNotching":"1",
+        "FSWelding":"0",
+        "FSAVRAGR":"1",        
+        "PICosmeticTypeOfPouch": "12",
+        "PICosmeticTypeOfBottle": "760",
+        "PIMarking": "480",
+        "PICutter":"820",
+        "PINotching":"490",
+        "PIWelding":"1250",
+        "PIAVRAGR":"520",
+    },
+    {
+        "ID": "2",
+        "Day": "2024년 12월 14일 화요일",
+        "Time": "16:30",
+        "Temperature": "14.5°",
+        "Humidity":"53%",
+        "FSCosmeticTypeOfPouch": "0",
+        "FSCosmeticTypeOfBottle": "1",
+        "FSMarking": "1",
+        "FSCutter":"0",
+        "FSNotching":"0",
+        "FSWelding":"0",
+        "FSAVRAGR":"0",        
+        "PICosmeticTypeOfPouch": "10",
+        "PICosmeticTypeOfBottle": "1000",
+        "PIMarking": "320",
+        "PICutter":"360",
+        "PINotching":"490",
+        "PIWelding":"1250",
+        "PIAVRAGR":"520",
     }
-  ]  
+]
 }
+
+
