@@ -1,17 +1,62 @@
-{
-  "sections": {
-    "main": {
-      "type": "product",
-      "settings": {
-        "show_vendor": true
-      }
-    },
-    "recommendations": {
-      "type": "product-recommendations"
-    }
-  },
-  "order": [
-    "main",
-    "recommendations"
+"scenes":[
+     {
+        "clips":[
+           {
+              "type":"userVideo",
+              "detail":{
+                 "scaleX":1,
+                 "scaleY":1,
+                 "locationX":0,
+                 "locationY":0,
+                 "layer":511,
+                 "url":"##INTRO_VIDEO_URL##"
+              }
+           }
+        ]
+     },
+     {
+        "AIModel":{
+           "model":"M000004017",
+           "locationX":0.28108465608465605,
+           "locationY":0.3619924756625092,
+           "clothes":"BG00006160",
+           "scale":1,
+           "language":"ko",
+           "layer":509,
+           "script":"##SCRIPT##"
+        },
+        "clips":[
+           {
+              "type":"background",
+              "detail":{
+                 "url":"https://cdn.aistudios.com/images/news/aiplatform_background_map.png"
+              }
+           },
+           {
+              "type":"image",
+              "detail":{
+                 "scale":0.760136003522247,
+                 "locationX":-0.2376818783068783,
+                 "locationY":-0.19351361943954537,
+                 "layer":511,
+                 "url":"##IMAGE_URL##"
+              }
+           }
+        ]
+     },
+     {
+        "clips":[
+           {
+              "type":"userVideo",
+              "detail":{
+                 "scaleX":1,
+                 "scaleY":1,
+                 "locationX":0,
+                 "locationY":0,
+                 "layer":511,
+                 "url":"##OUTRO_VIDEO_URL##"
+              }
+           }
+        ]
+     }
   ]
-}
