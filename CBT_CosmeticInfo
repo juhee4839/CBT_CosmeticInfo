@@ -1,62 +1,46 @@
-"scenes":[
-     {
-        "clips":[
-           {
-              "type":"userVideo",
-              "detail":{
-                 "scaleX":1,
-                 "scaleY":1,
-                 "locationX":0,
-                 "locationY":0,
-                 "layer":511,
-                 "url":"##INTRO_VIDEO_URL##"
-              }
-           }
-        ]
-     },
-     {
-        "AIModel":{
-           "model":"M000004017",
-           "locationX":0.28108465608465605,
-           "locationY":0.3619924756625092,
-           "clothes":"BG00006160",
-           "scale":1,
-           "language":"ko",
-           "layer":509,
-           "script":"##SCRIPT##"
+{
+    "CbtInfo":[
+        {
+            "ID": "1",
+            "Day": "2024년 12월 14일 화요일",
+            "Time": "14:30",
+            "Temperature": "14.5°",
+            "Humidity":"53%",
+            "FSCosmeticTypeOfPouch": "0",
+            "FSCosmeticTypeOfBottle": "1",
+            "FSMarking": "0",
+            "FSCutter":"1",
+            "FSNotching":"1",
+            "FSWelding":"0",
+            "FSAVRAGR":"1",        
+            "PICosmeticTypeOfPouch": "12",
+            "PICosmeticTypeOfBottle": "760",
+            "PIMarking": "480",
+            "PICutter":"820",
+            "PINotching":"490",
+            "PIWelding":"1250",
+            "PIAVRAGR":"520"
         },
-        "clips":[
-           {
-              "type":"background",
-              "detail":{
-                 "url":"https://cdn.aistudios.com/images/news/aiplatform_background_map.png"
-              }
-           },
-           {
-              "type":"image",
-              "detail":{
-                 "scale":0.760136003522247,
-                 "locationX":-0.2376818783068783,
-                 "locationY":-0.19351361943954537,
-                 "layer":511,
-                 "url":"##IMAGE_URL##"
-              }
-           }
-        ]
-     },
-     {
-        "clips":[
-           {
-              "type":"userVideo",
-              "detail":{
-                 "scaleX":1,
-                 "scaleY":1,
-                 "locationX":0,
-                 "locationY":0,
-                 "layer":511,
-                 "url":"##OUTRO_VIDEO_URL##"
-              }
-           }
-        ]
-     }
-  ]
+        {
+            "ID": "2",
+            "Day": "2024년 12월 14일 화요일",
+            "Time": "16:30",
+            "Temperature": "14.5°",
+            "Humidity":"53%",
+            "FSCosmeticTypeOfPouch": "0",
+            "FSCosmeticTypeOfBottle": "1",
+            "FSMarking": "1",
+            "FSCutter":"0",
+            "FSNotching":"0",
+            "FSWelding":"0",
+            "FSAVRAGR":"0",        
+            "PICosmeticTypeOfPouch": "10",
+            "PICosmeticTypeOfBottle": "1000",
+            "PIMarking": "320",
+            "PICutter":"360",
+            "PINotching":"490",
+            "PIWelding":"1250",
+            "PIAVRAGR":"520"
+        }
+    ]
+}
